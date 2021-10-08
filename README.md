@@ -1,2 +1,2 @@
 # Python-Library
-I try to make library of useful codes for Python
+This is a library of useful codes for Python
