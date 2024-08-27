@@ -1,2 +1,2 @@
-# Python-Library
-This is a library of useful codes for Python
+# Python functions
+This is a library of some useful fuctions for Python
